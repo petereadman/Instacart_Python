@@ -5,6 +5,12 @@ Exploratory Data Analysis project using Python as part of *Career Foundry's* **D
 <br>
 ![Instacart logo](/images/Instacart.png)
 <br>
+## Libraries
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- scipy
 ## Objective
 Instacart wants to uncover more information about their sales patterns. Perform an initial data and exploratory
 analysis of some of their data in order to derive insights and suggest strategies for better segmentation based on the provided criteria.
