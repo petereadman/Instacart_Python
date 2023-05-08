@@ -1,6 +1,10 @@
 # Instacart Grocery Basket Analysis
 Exploratory Data Analysis project using Python as part of *Career Foundry's* **Data Analytics** Program
+<br>
+<br>
+<br>
 ![Instacart logo](/images/Instacart.png)
+<br>
 ## Objective
 Instacart wants to uncover more information about their sales patterns. Perform an initial data and exploratory
 analysis of some of their data in order to derive insights and suggest strategies for better segmentation based on the provided criteria.
