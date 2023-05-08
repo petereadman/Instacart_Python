@@ -1,6 +1,6 @@
 # Instacart Grocery Basket Analysis
 
-![Instacart logo](https://www.dropbox.com/s/uz6omy70c650gpf/Instacart.png?dl=0)
+![Instacart logo](https://Instacart.png)
 ## Objective
 You’re an analyst for an existing company, *Instacart*, an online grocery store that operates
 through an app. Instacart already has very good sales, but they want to uncover more
